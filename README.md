@@ -1,4 +1,4 @@
 # Notas: 
-Programa por consola en Node utilizando colors e inquirer para listar tareas por hacer
+App de consola realizado con Node utilizando colors e inquirer
 
-![alt text](./images/preview.png)
+![alt text](./images/preview.gif)
